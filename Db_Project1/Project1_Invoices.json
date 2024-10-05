@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "66ffa421d5a17fc7b58c4d1f"
+  },
+  "tenantId": {
+    "$oid": "66ff9f30d5a17fc7b58c4d1a"
+  },
+  "roomId": {
+    "$oid": "66ff9730d5a17fc7b58c4d0c"
+  },
+  "electricityCost": "400000",
+  "waterCost": "100000",
+  "electricityUsage": 100,
+  "waterUsage": 10,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-02-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Đã thanh toán",
+  "totalAmount": "4100000"
+},
+{
+  "_id": {
+    "$oid": "66ffa6b0d5a17fc7b58c4d20"
+  },
+  "tenantId": {
+    "$oid": "66ff9e3ad5a17fc7b58c4d18"
+  },
+  "roomId": {
+    "$oid": "66ff977ad5a17fc7b58c4d0e"
+  },
+  "electricityCost": "800000",
+  "waterCost": "100000",
+  "electricityUsage": 200,
+  "waterUsage": 10,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-03-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Đã thanh toán",
+  "totalAmount": "4500000"
+},
+{
+  "_id": {
+    "$oid": "66ffa722d5a17fc7b58c4d21"
+  },
+  "tenantId": {
+    "$oid": "66ffa069d5a17fc7b58c4d1c"
+  },
+  "roomId": {
+    "$oid": "66ff97a3d5a17fc7b58c4d0f"
+  },
+  "electricityCost": "600000",
+  "waterCost": "110000",
+  "electricityUsage": 150,
+  "waterUsage": 11,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-09-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Chưa thanh toán",
+  "totalAmount": "4310000"
+},
+{
+  "_id": {
+    "$oid": "66ffa818d5a17fc7b58c4d22"
+  },
+  "tenantId": {
+    "$oid": "66ff9d10d5a17fc7b58c4d17"
+  },
+  "roomId": {
+    "$oid": "66ff94dad5a17fc7b58c4d0b"
+  },
+  "electricityCost": "480000",
+  "waterCost": "90000",
+  "electricityUsage": 120,
+  "waterUsage": 9,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-09-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Chưa thanh toán",
+  "totalAmount": "4170000"
+},
+{
+  "_id": {
+    "$oid": "66ffa8c6d5a17fc7b58c4d24"
+  },
+  "tenantId": {
+    "$oid": "66ffa0e5d5a17fc7b58c4d1d"
+  },
+  "roomId": {
+    "$oid": "66ff97c6d5a17fc7b58c4d10"
+  },
+  "electricityCost": "400000",
+  "waterCost": "90000",
+  "electricityUsage": 100,
+  "waterUsage": 9,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-09-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Chưa thanh toán",
+  "totalAmount": "4590000"
+},
+{
+  "_id": {
+    "$oid": "66ffa968d5a17fc7b58c4d25"
+  },
+  "tenantId": {
+    "$oid": "66ff9c68d5a17fc7b58c4d16"
+  },
+  "roomId": {
+    "$oid": "66ff9804d5a17fc7b58c4d11"
+  },
+  "electricityCost": "600000",
+  "waterCost": "120000",
+  "electricityUsage": 120,
+  "waterUsage": 12,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Đã thanh toán",
+  "totalAmount": "4820000"
+},
+{
+  "_id": {
+    "$oid": "66ffa9fdd5a17fc7b58c4d26"
+  },
+  "tenantId": {
+    "$oid": "66ff9e3ad5a17fc7b58c4d18"
+  },
+  "roomId": {
+    "$oid": "66ff977ad5a17fc7b58c4d0e"
+  },
+  "electricityCost": "520000",
+  "waterCost": "100000",
+  "electricityUsage": 130,
+  "waterUsage": 10,
+  "parkingFee": "50000",
+  "trashFee": "50000",
+  "dateIssued": {
+    "$date": "2024-08-15T00:00:00.000Z"
+  },
+  "paymentStatus": "Đã thanh toán",
+  "totalAmount": "4720000"
+}]
