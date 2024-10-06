@@ -1,0 +1,270 @@
+[{
+  "_id": {
+    "$oid": "66ff98ddd5a17fc7b58c4d15"
+  },
+  "name": "Nguyễn Thành Đạt",
+  "email": "nthdat09@gmail.com",
+  "phone": "0901234567",
+  "birthDate": {
+    "$date": "2003-11-21T00:00:00.000Z"
+  },
+  "birthPlace": "Hà Nội",
+  "permanentAddress": "Hà Nội",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff974cd5a17fc7b58c4d0d"
+  },
+  "leaseStartDate": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "identityCard": "123456789012",
+  "identityCardIssuedDate": {
+    "$date": "2020-01-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff9c68d5a17fc7b58c4d16"
+  },
+  "name": "Vũ Văn Hoàn",
+  "email": "vhoanjr@gmail.com",
+  "phone": "0908888888",
+  "birthDate": {
+    "$date": "2003-07-19T00:00:00.000Z"
+  },
+  "birthPlace": "Quảng Ninh",
+  "permanentAddress": "Quảng Ninh",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff9804d5a17fc7b58c4d11"
+  },
+  "leaseStartDate": {
+    "$date": "2024-02-12T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  },
+  "identityCard": "123412789012",
+  "identityCardIssuedDate": {
+    "$date": "2020-05-11T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff9d10d5a17fc7b58c4d17"
+  },
+  "name": "Nguyễn Việt Hoàng",
+  "email": "hoangcon@gmail.com",
+  "phone": "0908888890",
+  "birthDate": {
+    "$date": "2003-11-10T00:00:00.000Z"
+  },
+  "birthPlace": "Phú Thọ",
+  "permanentAddress": "Phú Thọ",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff94dad5a17fc7b58c4d0b"
+  },
+  "leaseStartDate": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-04-12T00:00:00.000Z"
+  },
+  "identityCard": "131412789012",
+  "identityCardIssuedDate": {
+    "$date": "2020-04-16T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff9e3ad5a17fc7b58c4d18"
+  },
+  "email": "hoatb@gmail.com",
+  "phone": "0908888777",
+  "birthDate": {
+    "$date": "2003-02-16T00:00:00.000Z"
+  },
+  "birthPlace": "Thái Bình",
+  "permanentAddress": "Thái Bình",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff977ad5a17fc7b58c4d0e"
+  },
+  "leaseStartDate": {
+    "$date": "2024-05-12T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-05-12T00:00:00.000Z"
+  },
+  "name": "Đào Thị Mai Hoa",
+  "identityCard": "111412789012",
+  "identityCardIssuedDate": {
+    "$date": "2020-02-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ff9f30d5a17fc7b58c4d1a"
+  },
+  "name": "Nguyễn Phương Nhi",
+  "email": "phuongnhi1@gmail.com",
+  "phone": "0908889999",
+  "birthDate": {
+    "$date": "2003-08-16T00:00:00.000Z"
+  },
+  "birthPlace": "Nam Định",
+  "permanentAddress": "Nam Định",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff9730d5a17fc7b58c4d0c"
+  },
+  "leaseStartDate": {
+    "$date": "2024-05-04T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "identityCard": "166412789012",
+  "identityCardIssuedDate": {
+    "$date": "2020-09-09T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ffa069d5a17fc7b58c4d1c"
+  },
+  "name": "Nguyễn Tuấn Anh",
+  "email": "ngtuananh@gmail.com",
+  "phone": "0909989999",
+  "birthDate": {
+    "$date": "1996-12-16T00:00:00.000Z"
+  },
+  "birthPlace": "Thái Bình",
+  "permanentAddress": "Thái Bình",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff97a3d5a17fc7b58c4d0f"
+  },
+  "leaseStartDate": {
+    "$date": "2024-03-04T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-03-04T00:00:00.000Z"
+  },
+  "identityCard": "145412789012",
+  "identityCardIssuedDate": {
+    "$date": "2021-08-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ffa0e5d5a17fc7b58c4d1d"
+  },
+  "name": "Đinh Văn Huân",
+  "email": "huandvml@gmail.com",
+  "phone": "0909987899",
+  "birthDate": {
+    "$date": "1995-03-10T00:00:00.000Z"
+  },
+  "birthPlace": "Hải Phòng",
+  "permanentAddress": "Hải Phòng",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff97c6d5a17fc7b58c4d10"
+  },
+  "leaseStartDate": {
+    "$date": "2024-02-19T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-02-19T00:00:00.000Z"
+  },
+  "identityCard": "189412789012",
+  "identityCardIssuedDate": {
+    "$date": "2021-06-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fff8c10483d5042180c9cd"
+  },
+  "name": "Nguyễn Hà Trường",
+  "email": "nhtruongml@gmail.com",
+  "phone": "0901888567",
+  "birthDate": {
+    "$date": "2003-01-06T00:00:00.000Z"
+  },
+  "birthPlace": "Hà Nội",
+  "permanentAddress": "Hà Nội",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff974cd5a17fc7b58c4d0d"
+  },
+  "leaseStartDate": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "identityCard": "123457779012",
+  "identityCardIssuedDate": {
+    "$date": "2020-01-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670012190483d5042180c9cf"
+  },
+  "name": "Nguyễn Phương Anh",
+  "email": "nhngphanh@gmail.com",
+  "phone": "0901888123",
+  "birthDate": {
+    "$date": "2002-06-06T00:00:00.000Z"
+  },
+  "birthPlace": "Lào Cai",
+  "permanentAddress": "Lào Cai",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff974cd5a17fc7b58c4d0d"
+  },
+  "leaseStartDate": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-01-02T00:00:00.000Z"
+  },
+  "identityCard": "122227779012",
+  "identityCardIssuedDate": {
+    "$date": "2023-06-02T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "670012920483d5042180c9d0"
+  },
+  "name": "Nguyễn Đức Thắng",
+  "email": "nducathang@gmail.com",
+  "phone": "0999999999",
+  "birthDate": {
+    "$date": "2003-02-16T00:00:00.000Z"
+  },
+  "birthPlace": "Thái Bình",
+  "permanentAddress": "Thái Bình",
+  "image": "null",
+  " roomId": {
+    "$oid": "66ff9804d5a17fc7b58c4d11"
+  },
+  "leaseStartDate": {
+    "$date": "2024-02-12T00:00:00.000Z"
+  },
+  "leaseEndDate": {
+    "$date": "2025-02-12T00:00:00.000Z"
+  },
+  "identityCard": "122333779012",
+  "identityCardIssuedDate": {
+    "$date": "2021-05-21T00:00:00.000Z"
+  }
+}]
